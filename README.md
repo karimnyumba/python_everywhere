@@ -2,7 +2,7 @@
 * This repository contains collection of Python codes that can be used by beginners as well as advanced level programmers. The codes are organized into various categories based on their functionality.
 
 ## Getting Started
-To get started with using the codes in this repository, you will need to have Python installed on your computer. You can download the latest version of Python from the official website: (python.org)[https://www.python.org/downloads/]
+To get started with using the codes in this repository, you will need to have Python installed on your computer. You can download the latest version of Python from the official website: [python.org](https://www.python.org/downloads/)
 
 You will also need to have a text editor or an IDE installed on your computer to edit and run the codes. Some popular text editors and IDEs for Python are Visual Studio Code, PyCharm, Sublime Text, Atom, etc.
 
