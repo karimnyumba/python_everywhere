@@ -29,7 +29,7 @@ If you would like to contribute to this repository by adding more codes, improvi
 Please ensure that your code follows PEP 8 guidelines, is well-documented, and includes comments wherever necessary.
 
 ## Contact Me
-     - Name    : Nyumba, Karim M.
-     - Email   : <nyumba29@gmail.com>
-     - [Github Link](https://github.com/Kareem643)
-     - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/keemz643.svg?style=social&label=Follow%20%40keemz643)](https://twitter.com/keemz643) 
+Name    : Nyumba, Karim M.
+Email   : <nyumba29@gmail.com>
+[Github Link](https://github.com/Kareem643)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/keemz643.svg?style=social&label=Follow%20%40keemz643)](https://twitter.com/keemz643) 
